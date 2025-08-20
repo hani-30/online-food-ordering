@@ -22,4 +22,4 @@ A web-based application for customers to browse, order, and manage food items on
 
 1. Clone the repository:  
    ```bash
-   git clone https://github.com/yourusername/OnlineFood-PHP.git
+   git clone https://github.com/hani-30/OnlineFood-PHP.git
